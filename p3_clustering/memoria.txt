@@ -1,0 +1,12 @@
+
+Se ha implementado con javascript y con el uso de la libreria math.js, la cual ayuda con las operaciones con matrices.
+Se ha programado los tres algoritmos: "LLoyd", "Bayes" y "K-Medias".
+
+Pasos:
+1.- Abrir index.html
+2.- Subir en "ejemplos para aprender" el archivo "Iris2Clases.txt"
+3.- Subir en "ejemplo a testear" el archivo "TestIris01.txt" por ejemplo
+4.- Elegir algoritmo y pulsar "Calcular"
+
+Para probar otro ejemplo/algoritmo, recargar página
+

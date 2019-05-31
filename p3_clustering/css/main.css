@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    background-color: #02A676;
+    color: #061a1d;
+}
+#step1{
+    margin: auto;
+    margin-top: 5%;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 30%;
+    border: #003840 5px ridge;
+    border-radius: 5%;
+    padding: 2%;
+    background-color: #007369;
+}
+
+#step1 h2,select{
+    margin-top: 5%;
+}
+#step2{
+    width: 50%;
+    margin: auto;
+    margin-top:5%;
+    text-align: center;
+}

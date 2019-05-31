@@ -1,0 +1,22 @@
+Carlos Castellanos Mateo
+
+La interfaz esta hecha en HTML y CSS y el resto en JavaScript. En JavaScript esta definada una matriz la cual luego es renderizada en el HTML. El programa primero calcula el camino con el algoritmo A* y luego lo ejecuta paso a paso.
+
+El programa es capaz de:
+	-Calcular el camino entre inicio y final (Parte principal de la practica).
+	-Calcular el camino entre inicio y final pasando por varios puntos intermedios (apartado a).
+	-Recalcular la ruta si en tiempo de ejecucion se pone un obstaculo (apartado c).
+	-Elegir un camino u otro en funcion del riesgo (apartado d).
+
+Para probar la practica:
+	1.-Establecer ancho y alto.
+	2.-Pulsar Crear.
+	3.-Pulsar "Comienzo" y pinchar en el tablero.
+	4.-Pulsar "Final" y pinchar en el tablero.
+	5.-Pulsar "Obstaculos" y "waypoints" para poner los obstaculos y waypoints.
+	6.-Pulsar "Riesgo" y poner un valor en el campo de al lado, a continuación pinchar en las casillas para poner casillas con riesgo.
+	7.-Cuando este todo listo pulsar "Calcular".
+	8.-Se pueden volver a poner obstaculos mientras se esta ejecutando.
+
+Como esta hecho en HTML, no hay ejecutable, hay que abrir "index.html" con un navegador.
+Para volver a probar otro ejemplo, recargar la pagina.
