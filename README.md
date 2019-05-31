@@ -1,6 +1,6 @@
 Implemented algorithms:
 
-  -A*,
+  -A*.
   -ID3.
   -Clustering:
     ·Fuzzy K-Means.
