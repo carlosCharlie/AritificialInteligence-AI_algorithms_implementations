@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #14ABBD;
+    color:#2E0927 ;
+}
+.window{
+    border: #003840 solid 2px;
+    margin: auto;
+    width: 300px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    left: 40%;
+    padding: 5px;
+    top: 25%;
+    background-color: rgb(0, 189, 210);
+}
+
+.window *{
+    margin: 5px;
+}
+
+#next{
+    font-size: large;
+}
+
+input{
+    background-color: transparent;
+    color:#2E0927 ;
+    border-radius: 10px;
+}
+input[type="button"]{
+    background-color: rgb(255, 157, 30)
+}
+
+input:hover{
+    cursor: pointer;
+}
+
+#content{
+    display: block;
+    margin: auto;
+}
+
+table{
+    border: #003840 solid 2px;
+    border-radius: 5px;
+    text-align: center;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th, td{
+    border: #003840 solid 2px;
+    text-align: center;
+    padding: 5px;
+}
+
+th{
+    font-size: large;
+}
+
+#step1Button{
+    font-size: large;
+    margin: auto;
+    display: block;
+    margin-top:10px;
+}
+
+.value{
+    color:#FFAA00;
+}
+
+#check{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#check div{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+#check input{
+    margin: 20px;
+}
+
+#step2{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    margin: 20px;
+}
+
+input{
+    padding: 10px;
+}
+
+.path{
+    color: #FFAA00;
+    font-size: xx-large;
+}
+
+.answer{
+    color: #FF3800;
+    border: 2px solid #FF3800;
+    font-size: xx-large;
+}
+
+.rest{
+    font-size: xx-large;
+    color: black;
+    border: 2px solid transparent;
+}

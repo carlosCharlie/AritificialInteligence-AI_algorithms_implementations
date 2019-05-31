@@ -1,0 +1,36 @@
+<!--Carlos Castellanos Mateo-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Carlos Castellanos Mateo - ID3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="treant-js-master/Treant.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css">
+    <script src="js/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+    
+    <div class="window" id="uploadwindow">
+        <h2>Subir atributos</h2><input type="file" name="" id="attributes">
+        <h2>Subir ejemplos</h2><input type="file" name="" id="examples">
+        <input id="step0Button" type="button" value="Siguiente">
+    </div>
+
+    <div id="content">
+        <div id="step1">
+            <table id="tableExamples"></table>
+            <input id="step1Button" type="button" value="Calcular arbol">
+        </div>
+
+        <div id="step2" style="display:none">
+            <div id="tree"> </div>
+            <div id="check"></div>
+        </div>
+    </div>
+</body>
+<script src="treant-js-master/vendor/raphael.js"></script>
+<script src="treant-js-master/Treant.js"></script>
+<script src="js/main.js"></script>
+</html>
