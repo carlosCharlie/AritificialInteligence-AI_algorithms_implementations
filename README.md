@@ -5,5 +5,5 @@ Implemented algorithms:
   -Clustering: <br>
     ·Fuzzy K-Means. <br>
     ·Lloyd's algorithm. <br>
-    ·Parametric bayesian classifier.
+    ·Parametric Bayes classifier.
     
