@@ -1,9 +1,9 @@
 Implemented algorithms:
 
-  -A*.
-  -ID3.
-  -Clustering:
-    ·Fuzzy K-Means.
-    ·Lloyd's algorithm.
+  -A*. <br>
+  -ID3. <br>
+  -Clustering: <br>
+    ·Fuzzy K-Means. <br>
+    ·Lloyd's algorithm. <br>
     ·Parametric bayesian classifier.
     
