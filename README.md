@@ -1,6 +1,6 @@
 <h1 align="center">Artificial Inteligence</h1>
 <p align="center" width="100%"><img src="media/capture.gif" width="100%"/></p>
-With subject I've acquired some knowledge about artificial intelligence and machine learning.
+With this subject I've acquired some knowledge about artificial intelligence and machine learning.
 Implemented algorithms:
 <ul>
   <li>-A*.</li>
