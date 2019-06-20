@@ -3,7 +3,7 @@
 With this subject I've acquired some knowledge about artificial intelligence and machine learning.
 Implemented algorithms:
 <ul>
-  <li>-A*.</li>
+  <li>A*.</li>
   <li>ID3.</li>
   <li>Clustering:
     <ul><li>Fuzzy K-Means.</li>
