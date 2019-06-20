@@ -1,5 +1,5 @@
 <h1 align="center">Artificial Inteligence</h1>
-<p align="center"><img src="media/capture.gif"/></p>
+<p align="center"><img src="media/capture.gif" width="100%"/></p>
 With subject I've acquired some knowledge about artificial intelligence and machine learning.
 Implemented algorithms:
 <ul>
